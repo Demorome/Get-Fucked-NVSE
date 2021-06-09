@@ -2,7 +2,7 @@
  Get fucked.
  
 # Description
-Changes every NPC in FalloutNV.esm to match Driver Nephi's appearance, and forces every voice to say "Get Fucked".
+Changes every NPC in FalloutNV.esm to match Driver Nephi's appearance, and forces every voiceline to say "Get Fucked".
 
 Releases are published here: https://www.nexusmods.com/newvegas/mods/72619
 
